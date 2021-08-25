@@ -1,4 +1,3 @@
 # Vision
-Repository of Various Code Implementation of Vision
+Repository of Various Code Test & Implementation of Vision models
 
-#### Dataset of proper size to test
