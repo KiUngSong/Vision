@@ -1,3 +1,3 @@
 # Vision
-Repository of Various Code Test & Implementation of Vision models
+Repository of Various Test & Implementation of Vision models
 
