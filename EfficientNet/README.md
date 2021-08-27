@@ -1,4 +1,5 @@
 Pytorch version Reference : https://github.com/lukemelas/EfficientNet-PyTorch
+
 Tensorflow version Reference : 
 
 Tested EfficientNet model with tensorflow and pytorch version respectively
