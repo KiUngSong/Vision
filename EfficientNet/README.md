@@ -5,6 +5,6 @@ Tensorflow version Reference : https://github.com/tensorflow/tpu/tree/master/mod
 \
 Tested EfficientNet model with tensorflow and pytorch version respectively
 
-Smaller model than EfficientNet-B0 was trained on CIFAR10 dataset without validation set for convenience
+EfficientNet-B0 was trained on CIFAR10 dataset without validation set for convenience
 
 Auto augmentation was used by using the work of https://github.com/DeepVoltaire/AutoAugment
