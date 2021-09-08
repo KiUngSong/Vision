@@ -1,6 +1,6 @@
 Pytorch version Reference : https://github.com/lukemelas/EfficientNet-PyTorch
 
-Tensorflow version Reference : https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet
+Tensorflow version Reference : https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet : In progress
 
 Tested EfficientNet model with tensorflow and pytorch version respectively
 
