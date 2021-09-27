@@ -1,6 +1,6 @@
 # Vision
 Repository of Various Test & Implementation of Vision models
-* Autoaugmentation was used by using the work of https://github.com/DeepVoltaire/AutoAugment to train image classification models
+* AutoAugment was used by using the work of https://github.com/DeepVoltaire/AutoAugment to train image classification models
 * trainer.py used CutMix & MixUp to train image classification models
 
 ## Image Classification
