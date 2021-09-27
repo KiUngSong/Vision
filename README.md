@@ -6,6 +6,7 @@ Repository of Various Test & Implementation of Vision models
 ## Image Classification
 * EfficientNet
 * Vision Transformer(ViT)
+* MLP-Mixer : In progress
 
 ## Action Recognition
 * RepFlow : Representation Flow for Action Recognition - https://arxiv.org/pdf/1810.01455v3.pdf
