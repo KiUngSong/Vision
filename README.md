@@ -9,4 +9,3 @@ Repository of Various Test & Implementation of Vision models
 * MLP-Mixer : https://arxiv.org/pdf/2105.01601.pdf
 
 ## Action Recognition
-* RepFlow : Representation Flow for Action Recognition - https://arxiv.org/pdf/1810.01455v3.pdf
