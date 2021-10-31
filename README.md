@@ -8,4 +8,6 @@ Repository of Various Test & Implementation of Vision models
 * Vision Transformer(ViT) : https://arxiv.org/pdf/2010.11929.pdf
 * MLP-Mixer : https://arxiv.org/pdf/2105.01601.pdf
 
+## Image Segmentation
+
 ## Action Recognition
